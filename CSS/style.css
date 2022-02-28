@@ -1,0 +1,49 @@
+h1 {
+    font-size: 72px;
+    font-weight: bold;
+    font-family: courier;
+    text-align: center;
+}
+
+h2{
+    color: #ff0099;
+    text-align: center;
+    font-size: 40px;
+    font-family: courier;
+}
+p {
+    font-family: consolas;
+    font-size: 20px;
+    
+}
+.MENU{
+    font-family: Arial;
+    background-color: #333333;
+    float: right;
+    width: 100%;
+    text-align: right;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 100px;
+    border: 1px;
+    
+}
+a{
+    color:#ff0099;
+    font-size: 30px;
+
+}
+.Border{
+    text-align: center;
+    font-weight: bold;
+}
+#lens{
+    vertical-align: middle;
+    float: left;
+    position: relative;left: 120px;
+    
+}
+h3{
+    font-family: courier;
+    color:blueviolet
+}
